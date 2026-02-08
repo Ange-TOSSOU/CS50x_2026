@@ -14,6 +14,15 @@ I created this repository to save all my solutions for those problems. Feel free
 ## My problem sets solutions
 ### Week 0 \- Scratch : Problem Set 0
 
+## Languages - Technologies - Tools - and more
+- VSCode
+- Makefile
+
+## Useful links
+- [CS50 C Documentation][cs50_c_doc]
+
 
 
 [cs50x_material]: https://cs50.harvard.edu/x/
+
+[cs50_c_doc]: https://manual.cs50.io/
