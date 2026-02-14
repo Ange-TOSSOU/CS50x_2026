@@ -6,7 +6,7 @@ CS50x is an entry-level course delivered by the Harvard University which covered
 - Programming languages including C and Python
 - etc.
 
-Find more about this course on their <a title="Harvard OpenCourseWare" href="https://cs50.harvard.edu/x/" target="_blank">website</a>.
+Find more about this course on their [website][cs50x_material]{:target="_blank"}.
 
 The course contains a bunch of problem sets. Some of them can be really challenging.
 I created this repository to save all my solutions for those problems. Feel free to try its out, compare its to yours and give me your feedback if needed.
@@ -25,9 +25,13 @@ I created this repository to save all my solutions for those problems. Feel free
 - Makefile
 
 ## Useful links
-- <a title="CD50 Doc" href="https://manual.cs50.io/" target="_blank">CS50 C Documentation</a>
+- [CS50 C Documentation][cs50_c_doc]{:target="_blank"}
 
 
+
+[cs50x_material]: https://cs50.harvard.edu/x/
+
+[cs50_c_doc]: https://manual.cs50.io/
 
 [pset1_1]: https://github.com/Ange-TOSSOU/CS50x_2026/tree/main/C/me
 [pset1_2]: https://github.com/Ange-TOSSOU/CS50x_2026/tree/main/C/mario-less
